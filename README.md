@@ -8,6 +8,12 @@
 
 Cola Cloud 基于 Spring Boot, Spring Cloud 构建微服务架构企业级开发平台，集成OAuth2认证、集成短信验证码登录、FlyWay数据库版本管理、网关集成Swagger聚合所有服务API文档。基于SpringBootAdmin集成Hystrix、Turbine监控。开发用户中心、权限管理、组织架构、数据字典、消息中心、通知中心等模块。
 
+# 推荐
+
+## [Cola-Auth](https://gitee.com/leecho/cola)
+基于SpringBoot2/SpringSecurity/SpringSession/SpringSocial/SpringSecurityOAuth2构建的互联网应用基础框架，包含认证中心、消息通知、安全中心和用户中心。支持Session/JWT/OAuth2认证模式，支持账号密码/短信验证码/社会化登录等登录模式。接入支付宝/微信/QQ/微信公众号/微信小程序等第三方平台，支持Web应用和App应用，可快速构建SSO平台和OpenAPI平台。
+
+
 ## 服务介绍
 
 项目名称	| 编号 | 名称	| 说明	
